@@ -2,7 +2,7 @@
 
 ## BillBoard OS
 
-The gateway surface for the Mike Gold world.
+Gateway surface for the Mike Gold world.
 
 Three entry points. One viewport. No conventional portfolio front page.
 
