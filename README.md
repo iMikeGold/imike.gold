@@ -1,2 +1,2 @@
 # imikeg.gold
-The Gateway Glimpse OS
+A Gateway Glimpse into BillBoard OS
