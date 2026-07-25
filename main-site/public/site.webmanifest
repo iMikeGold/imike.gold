@@ -1,0 +1,9 @@
+{
+  "name": "(i), Mike Gold",
+  "short_name": "(i), Mike Gold",
+  "description": "BillBoard OS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505"
+}
